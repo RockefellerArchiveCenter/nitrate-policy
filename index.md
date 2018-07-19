@@ -31,7 +31,10 @@ As a health and safety matter, all storage of nitrate film is to be reported to 
 
 ## Implementation
 Accepted practice in museums, libraries, and archives is to copy nitrate film onto stable film bases (silver-halide polyester film) or to digitize the images for preservation and accessibility. Proper collections storage space, consisting of cool or cold room environments, is critical for long-term preservation of originals before and after duplication. For unique or highly significant nitrate film, retention of the original after duplication is preferred, even if digital surrogates have been made. Other guidelines are as follows:
+
 * **Acquisition.** Most (though not all) 35mm motion picture film stock manufactured before 1951 is nitrate. It is therefore important to immediately perform a basic visual inspection of the incoming reel(s) to discern whether a film is a pre-1951 nitrate print or a safety copy created after 1951.
+
+A photographic collection that contains any flexible, transparent film negatives from the time period of 1890-1950 is very likely to contain at least some nitrate film. Since these negatives need special attention, they should immediately be separated from other negatives. 
 
 * **Inspection.** A RAC Nitrate Evaluation Form must be completed at the accessioning phase. (See: Guide to Collection Management) This form is to be delivered to the Assistant Director/Head of Collections Management and discussed with the Director of Archives where future steps are to be decided.
 
