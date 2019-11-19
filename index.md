@@ -1,6 +1,6 @@
 ---
 layout: docs
-title:  "Rockefeller Archive Center Cellulose Nitrate Still Picture and Motion Picture Film Policy"
+title:  "Cellulose Nitrate Still Picture and Motion Picture Film Policy"
 ---
 
 ## Background
