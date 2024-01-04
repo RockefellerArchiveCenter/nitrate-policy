@@ -4,7 +4,7 @@ The Rockefeller Archive Center's policy for the storage and management of cellul
 
 ## Accessing the policy
 
-The content is accessible on [docs.rockarch.org](docs.rockarch.org), the central platform for the documentation of the Rockefeller Archive Center.
+The content is accessible on [docs.rockarch.org](https://docs.rockarch.org), the central platform for the documentation of the Rockefeller Archive Center.
 
 ## License
 
