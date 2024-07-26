@@ -1,4 +1,4 @@
-# Cellulose Nitrate Still Picture and Motion Picture Film Policy
+# Cellulose Nitrate Policy
 
 The Rockefeller Archive Center's policy for the storage and management of cellulose nitrate still picture and motion picture film.
 
