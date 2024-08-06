@@ -1,6 +1,6 @@
 ---
 layout: docs
-title:  "Cellulose Nitrate Still Picture and Motion Picture Film Policy"
+title:  "Cellulose Nitrate Policy"
 ---
 
 ## Background
